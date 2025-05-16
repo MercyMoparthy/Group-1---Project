@@ -1,0 +1,3 @@
+R2 Predicted = 0.898
+R2 Scored = 1.000
+R2 Difference = R2 Scored - R2 Predicted = 0.102
